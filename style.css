@@ -1,0 +1,12 @@
+#container{
+    width: 640px;
+    height: 640px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.box{
+    box-sizing: border-box;
+    border: 1px solid blue;
+
+}
